@@ -18,5 +18,11 @@
         "content": "I'll create a unique and exciting image with a video game theme, you got it!",
         "timestamp": "15082024200916",
         "message_id": "guest15082024200916"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"dynamic day-night cycle themes based on local time\", \"checked\": true}, {\"feature\": \"interactive elements (e.g., characters or objects) that react on cursor hover\", \"checked\": false}, {\"feature\": \"customizable background options for user profiles\", \"checked\": true}, {\"feature\": \"animated transitions for background changes\", \"checked\": false}, {\"feature\": \"seasonal or event-specific background updates (e.g., winter theme, game launch anniversaries)\", \"checked\": true}, {\"feature\": \"option for users to upload their own game-themed background image\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 127, \"time_taken\": \"0:00:03.616329\"}",
+        "timestamp": "15082024200924",
+        "message_id": "guest15082024200916"
     }
 ]
