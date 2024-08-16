@@ -20,6 +20,7 @@ Vue.component("purple_background_cta_component_1723751903", {
                         <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)" />
                     </svg>
                 </div>
+                <img src="http://127.0.0.1:8000/get_image/Toilet_Paper_Marketplace_1723751899/72938403d82f437496ce1dc9d0f353a6.jpeg" id="cta-image" class="absolute top-4 left-4 w-24 h-24 object-cover rounded-full" alt="Toilet paper marketplace">
                 <!-- Content -->
                 <div id="content" class="max-w-3xl mx-auto text-center">
                     <div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">Soft on Your Bottom, Easy on Your Wallet</div></div>
@@ -29,7 +30,7 @@ Vue.component("purple_background_cta_component_1723751903", {
                 </div>
             </div>
         </div>
-    </section>`,
+    </section>`
         data() {
             return {
                 expanded: false, 
@@ -37,4 +38,3 @@ Vue.component("purple_background_cta_component_1723751903", {
             };
         },
     });
-                    
