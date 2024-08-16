@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the piranha theme to be more realistic or cartoonish in style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Do you prefer the background to feature underwater scenes with multiple piranhas or focus on a single, prominent piranha?\", \"option1\": \"Underwater scenes with multiple piranhas\", \"option2\": \"Focus on a single, prominent piranha\"}], \"input_token_count\": 259, \"output_token_count\": 109, \"time_taken\": \"0:00:02.527876\"}",
+        "message_id": "guest16082024004038",
+        "timestamp": "16082024004045",
+        "component_file_name": "purple_background_cta_component_1723751903",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Working on changing the background to piranha theme.",
         "message_id": "guest16082024004038",
